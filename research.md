@@ -4,6 +4,8 @@
 
 
 
+
+
 # 2. 채용공고
 
 ### 2.1 [토스](https://toss.im/career/job-detail?job_id=4071101003)
@@ -33,7 +35,10 @@
 
 
 
-### 2.2 [카카오](https://careers.kakao.com/jobs/P-12672?skilset=Web_front)
+
+
+
+ ### 2.2 [카카오](https://careers.kakao.com/jobs/P-12672?skilset=Web_front)
 
 > 카카오의 넥스트 포털 서비스를 만들어갈 FE개발자 모집
 
@@ -62,6 +67,9 @@
 
 
 
+
+
+
 ### 2.3 [펄어비스](https://www.pearlabyss.com/ko-KR/Company/Careers/detail?_jobOpeningNo=178)
 
 - 자격요건
@@ -86,4 +94,65 @@
   - 게임서비스 홈페이지 개발
   - 게임 내 웹 컨텐츠 개발
   - 웹 기반 회사 내부 툴 개발 및 서비스 운용
+  
 
+
+
+
+
+### 2.4 [당근마켓](https://team.daangn.com/jobs/5079882003/)
+
+- 자격요건
+  - `HTML` `CSS` 및 `JavaScript` 생태계에 익숙하신 분
+  - `React` 프로젝트 개발 경험이 있으신 분
+  - TypeScript, Flow 등 `JS 정적 타이핑 툴` 경험이 있으신 분
+  - Redux, Recoil 등 `상태 관리 패턴` 사용 경험이 있으신 분
+  - `웹 접근성`을 준수하려고 노력하시는 분
+  - UI/UX 개선과 관련된 고민을 좋아하시는 분
+  - 서비스 개발에 관심이 많고, 커뮤니케이션이 원활하신 분
+
+
+
+- 사용기술
+  - React
+  - Typescript
+  - Relay, GraphQL, Recoil
+  - Emotion, Vanilla Extract
+  - Webpack, Babel
+  - Yarn Berry(Plug-in-Play), Yarn Workspace
+
+
+
+- 우대사항
+  - `직접 개발한 서비스`를 `배포`해본 경험이 있으신 분
+  - 모바일 또는 `반응형 웹` 개발 경험이 있으신 분
+  - Webpack, Rollup 등 `모듈 번들러`에 대한 이해가 깊으신 분
+  - `Relay` `GraphQL` 사용 경험이 있으신 분
+  - Next.js 등 `SPA Framework`을 이용한 SSR 프로젝트 경험이 있으신 분
+  - 오픈소스 `Contribution` 경험이 있으신 분
+  - 새로운 기술에 관심이 많고, 성장을 위해 노력하시는 분
+
+
+
+
+
+### 2.5 [오피지지](https://ko.opgg.team/3cfed9fc-4b3b-44c1-897c-157f52c598b0)
+
+- 자격요건
+  - `React`를 활용한 개발 `경험`이 있으신 분
+  - 학력, 전공, 무관
+
+
+
+- 주요기술
+  - React
+  - Node.js
+  - HTML CSS
+
+
+
+- 우대사항
+  - `Election` 사용 경험이 있으신 분
+  - `Node.js` 기반의 웹서비스 개발 경험이 있으신 분
+  - `영어 활용`이 능숙하신 분
+  - 리그오브레전드 게임을 즐기거나 게임 및 시장에 대한 이해도가 있으신 분
